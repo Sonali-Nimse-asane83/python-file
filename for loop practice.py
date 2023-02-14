@@ -1,6 +1,5 @@
-'''s = 'scooden global'
-for i in s:
-    print(i)
+a = "mahiya"
+
 
 l =[10,20,30,40,50]
 for i in l:
